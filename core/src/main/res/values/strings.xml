@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EPL Teams</string>
+
+    <string name="no_data">Empty data</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Favorites</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_favorite">Change your Profile here</string>
+    <string name="content_tab_text">This is Tab</string>
+    <string name="image_description">Image</string>
+
+    <string name="menu_favorite">Favorite</string>
+
+    <string name="label_team_name">Team Name : %s</string>
+    <string name="label_stadium_name">Stadium Name : %s</string>
+</resources>
